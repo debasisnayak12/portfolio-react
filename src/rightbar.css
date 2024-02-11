@@ -1,0 +1,24 @@
+.experienced-card{
+    padding: 20px 10px;
+}
+.experienced-card ul{
+    line-height: 2;
+}
+.experienced-card .header{
+    display: flex;
+    justify-content: space-between;
+}
+.skills{
+    display: flex;
+    gap: 10px;
+    flex-direction: row-reverse;
+}
+.skills span {
+    background-color: #e7e7e7;
+    padding: 3px 5px;
+    border-radius: 6px;
+}
+.company-name{
+    font-size: 1.4rem;
+    font-weight: 600;
+}
